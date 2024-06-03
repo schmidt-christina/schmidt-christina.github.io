@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-Uk"
-title                    : "Christina Schmidt"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,23 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Christina Schmidt"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Sydney, Australia"
   employer         : "University of New South Wales"
-  uri              : # URL
   email            : "christina.schmidt@unsw.edu.au" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?user=Mx0OgAEAAAAJ&hl=de"
+  orcid            : "https://orcid.org/0000-0002-7672-5054"
   researchgate     : # URL
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  twitter          : # Username for X / Twitter
-
+  bluesky          : "@christinaocean.bsky.social"
+  twitter          : "@_ChrsitinaOcean"
+  
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
