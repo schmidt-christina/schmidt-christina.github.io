@@ -16,16 +16,3 @@ author_profile: true
 
 ### 2022
 * Oral Presentation at Ocean Sciences Meeting, online, 1-4 March 2022
-
-
-
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
