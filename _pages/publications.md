@@ -15,9 +15,16 @@ Please find my pubplication list below or visit my profiles on [ORCID](https://o
 
 ### Published articles
 
-7\. Xie, Y., Spence, P., Corney, S., Tamsitt, V., Dawson, H., **Schmidt, C.**, & Bach, L. T. (2024). [Euphotic zone residence time of Antarctic Bottom Water](https://doi.org/10.1029/2023GL106342). *Geophysical Research Letters*, 51, e2023GL106342. https://doi.org/10.1029/2023GL106342
+<ol reversed>
+  <li>Item 0</li>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ol>
 
-6\. **Schmidt, C.**, Morrison, A. K., & England, M. H. (2023). [Wind– and sea‐ice–driven interannual variability of Antarctic Bottom Water formation](https://doi.org/10.1029/2023JC019774). *Journal of Geophysical Research: Oceans*, 128(6). https://doi.org/10.1029/2023JC019774
+
+7. Xie, Y., Spence, P., Corney, S., Tamsitt, V., Dawson, H., **Schmidt, C.**, & Bach, L. T. (2024). [Euphotic zone residence time of Antarctic Bottom Water](https://doi.org/10.1029/2023GL106342). *Geophysical Research Letters*, 51, e2023GL106342. https://doi.org/10.1029/2023GL106342
+
+6. **Schmidt, C.**, Morrison, A. K., & England, M. H. (2023). [Wind– and sea‐ice–driven interannual variability of Antarctic Bottom Water formation](https://doi.org/10.1029/2023JC019774). *Journal of Geophysical Research: Oceans*, 128(6). https://doi.org/10.1029/2023JC019774
  
 5\. Rühs, S., **Schmidt, C.**, Schubert, R., Schulzki, T., Schwarzkopf, F., Le Bars, D., & Biastoch, A. (2022). [Robust estimates for the decadal evolution of Agulhas leakage from the 1960s to the 2010s](https://doi.org/10.1038/s43247-022-00643-y). *Communications Earth & Environment*, 3(318). https://doi.org/10.1038/s43247-022-00643-y
 
