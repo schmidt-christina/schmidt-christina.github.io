@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+My publication list is below and I also have profiles on [ORCID](https://orcid.org/0000-0002-7672-5054) and [Google Scholar](https://scholar.google.com/citations?user=Mx0OgAEAAAAJ&hl=de)
 
-{% include base_path %}
+## Journal Articles
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Articles in preparation
+
+<!### Articles submitted for publication!>
+
+### Published articles
+
+* [1] Busch, K., Taboada, S., Riesgo, A., Koutsouveli, V., Ríos, P., Cristobo, J., Franke, A., Getzlaff, K., **Schmidt, C.**, Biastoch, A., & Hentschel, U. (2021). [Population connectivity of fan-shaped sponge holobionts in the deep Cantabrian Sea](https://doi.org/10.1016/j.dsr.2020.103427). *Deep-Sea Research Part I: Oceanographic Research Papers*, 167, 103427. https://doi.org/10.1016/j.dsr.2020.103427
