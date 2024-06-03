@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-Uk"
-title                    : ""
+title                    : "Christina Schmidt"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Christina Schmidt"
 description              : &description "personal description"
 url                      : https://schmidt-christina.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Christina Schmidt"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Physical Oceanographer"
   location         : "Sydney, Australia"
   employer         : "University of New South Wales"
   email            : "christina.schmidt@unsw.edu.au" 
