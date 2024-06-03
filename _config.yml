@@ -34,8 +34,8 @@ author:
   researchgate     : # URL
 
   # Social media
-  bluesky          : "@christinaocean.bsky.social"
-  twitter          : "@_ChrsitinaOcean"
+  bluesky          : "christinaocean.bsky.social"
+  twitter          : "_ChristinaOcean"
   
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
