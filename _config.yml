@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Christina_quadrat_kleiner.jpg"
+  avatar           : "files/Christina_quadrat_kleiner.jpg"
   name             : "Christina Schmidt"
   bio              : "PhD student \n Physical Oceanography"
   location         : "Sydney, Australia"
