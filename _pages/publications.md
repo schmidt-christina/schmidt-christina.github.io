@@ -16,8 +16,8 @@ Please find my pubplication list below or visit my profiles on [ORCID](https://o
 ### Published articles
 
 <ol reversed>
-  <li>Item 0</li>
-  <li>Item 1</li>
+  <li>Xie, Y., Spence, P., Corney, S., Tamsitt, V., Dawson, H., **Schmidt, C.**, & Bach, L. T. (2024). [Euphotic zone residence time of Antarctic Bottom Water](https://doi.org/10.1029/2023GL106342). *Geophysical Research Letters*, 51, e2023GL106342. https://doi.org/10.1029/2023GL106342</li>
+  <li>Xie, Y., Spence, P., Corney, S., Tamsitt, V., Dawson, H., **Schmidt, C.**, & Bach, L. T. (2024). [Euphotic zone residence time of Antarctic Bottom Water](https://doi.org/10.1029/2023GL106342). *Geophysical Research Letters*, 51, e2023GL106342. https://doi.org/10.1029/2023GL106342</li>
   <li>Item 2</li>
 </ol>
 
