@@ -1,9 +1,19 @@
 ---
 layout: archive
-title: "Presentations at Conferences and Workshops"
 permalink: /talks/
 author_profile: true
 ---
+
+
+
+<p align="center">
+  <img src="/files/IMG_5253_sailing_sydney_harbour_cropped.jpg" alt="Sydney Harbour" style="width:100%;
+  text-align:right"/> 
+  <figcaption style="text-align:right"> Winter racing on Sydney Harbour
+  </figcaption>
+</p>
+
+# Presentations at Conferences and Workshops
 
 ### 2024
 
