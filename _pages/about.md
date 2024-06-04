@@ -10,7 +10,7 @@ redirect_from:
 <p align="center">
   <img src="/files/20240114_181049_Byron_cropped.jpg" alt="Byron Bay" style="width:100%;
   text-align:right"/> 
-  <figcaption style="text-align:right"> Sailing past Cape Byron on the way from Sydey to the Gold Coast
+  <figcaption style="text-align:right"> Sailing past Cape Byron on the way from Sydney to the Gold Coast
   </figcaption>
 </p>
 
