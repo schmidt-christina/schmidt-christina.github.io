@@ -67,7 +67,7 @@ Engagement, Impact and Leadership
 ======
 * since 2023 **Chair of the Early Career Researcher Committee**, Australian Centre for Excellence in Antarctic Science
 * since 2023  Volunteer in the **social media team** responsible for the twitter account of the Climate Change Research Centre (@ccrc_unsw)
-* 2023	**Session Covenor** and member of the **organizing committee**, Annual research forum of the Australian Centre for Excellence in Antarctic Science, Hobart, Australia, 8-9 November 2023
+* 2023	**Session Convenor** and member of the **organizing committee**, Annual research forum of the Australian Centre for Excellence in Antarctic Science, Hobart, Australia, 8-9 November 2023
 * 2018, 2019 **Supervisor** at the ["Ice Climate Education"](https://www.arved-fuchs.de/en/archiv/jugendprojekte?view=article&id=1532:ice-das-projekt&catid=166:i-c-e-2022) summer school
   * summer school for last year High School students from several European countries,
   * 10 days on Sailing vessel Ryvar in the German and Danish Baltic Sea
