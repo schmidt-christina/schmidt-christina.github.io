@@ -7,7 +7,7 @@ author_profile: true
 
 
 <p align="center">
-  <img src="/files/IMG_5253_sailing_sydney_harbour_cropped.jpg" alt="Sydney Harbour" style="width:100%;
+  <img src="/files/IMG_5253_sailing_sydney_harbour_cropped.jpeg" alt="Sydney Harbour" style="width:100%;
   text-align:right"/> 
   <figcaption style="text-align:right"> Winter racing on Sydney Harbour
   </figcaption>
