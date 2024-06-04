@@ -1,9 +1,17 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<p align="center">
+  <img src="/files/sailing_aero_rund_cropped.jpeg" alt="Aeroe Rund" style="width:100%;
+  text-align:right"/> 
+  <figcaption style="text-align:right"> Start of the Ærø-Rund Regatta in Kiel Fjord
+  </figcaption>
+</p>
+
+# Publications
 
 Please find my pubplication list below or visit my profiles on [ORCID](https://orcid.org/0000-0002-7672-5054) and [Google Scholar](https://scholar.google.com/citations?user=Mx0OgAEAAAAJ&hl=de).
 
