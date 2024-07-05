@@ -16,7 +16,7 @@ author_profile: true
 # Presentations at Conferences and Workshops
 
 ### 2024
-
+* *Poster* at **Ocean Modelling and Observations Workshop**, Canberra, Australia, 2-4 July 2024
 * *Oral Presentation (online)* at **Workshop “Antarctic Coastal Winds: recent advances and future research priorities”**, British Antarctic Survey and online, Cambridge, UK, 19-21 March 2024
 * *Seminar* **“Polar Hour” at Scripps Institute of Oceanography**, San Diego, USA, 29 February 2024
 * *Oral Presentation & Poster* at **Ocean Sciences Meeting**, New Orleans, USA, 18-23 February 2024
