@@ -60,7 +60,7 @@ Sea-going Experience
 
 Teaching
 ======
-* 2022 Graduate **teaching assistant** for "Physical Oceanography (MSCI3001)"
+* 2024 Graduate **teaching assistant** for "Physical Oceanography (MSCI3001)"
   * University of New South Wales, Sydney, Australia
 
 
