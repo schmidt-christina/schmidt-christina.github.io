@@ -60,7 +60,7 @@ Sea-going Experience
 
 Teaching
 ======
-* 2022 Graduate **teaching assistant** for "Introduction to Climate Change (CLIM1001)"
+* 2022 Graduate **teaching assistant** for "Physical Oceanography (MSCI3001)"
   * University of New South Wales, Sydney, Australia
 
 
