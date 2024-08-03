@@ -29,14 +29,17 @@ Professional Experience
   * Supervisor: Prof. Arne Biastoch
   * Analysis of components of the Atlantic Meridional Overturning Circulation (Agulhas leakage, overturning in the subpolar North Atlantic) in high-resolution ocean-sea ice models with Eulerian and Lagrangian techniques
 
-<!--Technical Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Numerical modelling with eddy resolving ocean-sea ice models:
+  * running of MOM5 based ACCESS-OM2 at a horizontal resolution of 1/10°
+  * development of a regional Southern Ocean model using MOM6 at resolutions of 1/10°, 1/20°, 1/40°
+  * analysis of NEMO output
+* Big data analysis and visualisation using python (xarray, dask)
+* High Performance Computing
+* Lagrangian analysis (Parcels, Ariane)
+* Version control with github @schmidt-christina
+* Scientific writing (Latex)
 
 Awards
 ======
@@ -44,8 +47,19 @@ Awards
 * 2024 **Best Student Presentation** at the biannual postgraduate reviews of the Climate Change Research Centre, University of New South Wales
 * 2023 Climate Change Research Centre **Prize for Science Communication**, Outreach or Education, University of New South Wales
 * 2023 **Best Lightning Talk**, Annual forum of the Australian Centre for Excellence in Antarctic Science
-* 2020 University International Postgraduate Award for study towards a PhD, University of New South Wales
+* 2020 **University International Postgraduate Award** for study towards a PhD, University of New South Wales
   * valued at approximately AUD 330,000 covering tuition fees and a stipend
+
+
+Engagement, Impact and Leadership
+======
+* since 2023 **Chair of the Early Career Researcher Committee**, Australian Centre for Excellence in Antarctic Science
+* since 2023  Volunteer in the **social media team** responsible for the twitter account of the Climate Change Research Centre (@ccrc_unsw)
+* 2023	**Session Convenor** and member of the **organizing committee**, Annual research forum of the Australian Centre for Excellence in Antarctic Science, Hobart, Australia, 8-9 November 2023
+* 2018, 2019 **Supervisor** at the ["Ice Climate Education"](https://www.arved-fuchs.de/en/archiv/jugendprojekte?view=article&id=1532:ice-das-projekt&catid=166:i-c-e-2022) summer school
+  * summer school for last year High School students from several European countries
+  * 10 days on sailing vessel Ryvar in the German and Danish Baltic Sea
+* **Reviewer** for Communications Earth & Environment, Ocean Science
 
 
 Sea-going Experience
@@ -64,13 +78,4 @@ Teaching
   * University of New South Wales, Sydney, Australia
 
 
-Engagement, Impact and Leadership
-======
-* since 2023 **Chair of the Early Career Researcher Committee**, Australian Centre for Excellence in Antarctic Science
-* since 2023  Volunteer in the **social media team** responsible for the twitter account of the Climate Change Research Centre (@ccrc_unsw)
-* 2023	**Session Convenor** and member of the **organizing committee**, Annual research forum of the Australian Centre for Excellence in Antarctic Science, Hobart, Australia, 8-9 November 2023
-* 2018, 2019 **Supervisor** at the ["Ice Climate Education"](https://www.arved-fuchs.de/en/archiv/jugendprojekte?view=article&id=1532:ice-das-projekt&catid=166:i-c-e-2022) summer school
-  * summer school for last year High School students from several European countries
-  * 10 days on sailing vessel Ryvar in the German and Danish Baltic Sea
 
-* **Reviewer** for Communications Earth & Environment, Ocean Science
