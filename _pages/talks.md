@@ -16,6 +16,8 @@ author_profile: true
 # Presentations at Conferences and Workshops
 
 ### 2024
+* *Oral Presentation* at **Australian Antarctic Resaerch Conference**, Hobart, Australia, 18-22 November 2024
+* *Seminar* in the Ocean Dynamics Group, GEOMAR Helmholtz Centre for Ocean Research Kiel, Kiel, Germany, 26 September 2024
 * *Poster* at **Ocean Modelling and Observations Workshop**, Canberra, Australia, 2-4 July 2024
 * *Interactive Presentation* at an ECR organised **session on mental health at the Winter School** by the Australian Centre for Excellence in Antarctic Science and Australian Antarctic Program Partnership, Spring Bay Mill, Australia, 17-21 June 2024
 * *Oral Presentation (online)* at **Workshop “Antarctic Coastal Winds: recent advances and future research priorities”**, British Antarctic Survey and online, Cambridge, UK, 19-21 March 2024
