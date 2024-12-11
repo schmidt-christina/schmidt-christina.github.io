@@ -16,7 +16,7 @@ redirect_from:
   </figcaption>
 </p>
 
-{% include base_path %}
+# CV
 
 You can download my CV [`here`](/files/CV_master_2024-08.pdf)
 
