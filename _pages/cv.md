@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <p align="center">
-  <img src="/files/IMG_5253_sailing_sydney_harbour_cropped.jpeg" alt="Sydney Harbour" style="width:100%;
+  <img src="/files/20240815_144631_cropped.jpg" alt="Uluru" style="width:100%;
   text-align:right"/> 
-  <figcaption style="text-align:right"> Winter racing on Sydney Harbour
+  <figcaption style="text-align:right"> Uluru
   </figcaption>
 </p>
 
