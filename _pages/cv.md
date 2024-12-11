@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-
 
 <p align="center">
   <img src="/files/20240815_144631_cropped.jpg" alt="Uluru" style="width:100%;
