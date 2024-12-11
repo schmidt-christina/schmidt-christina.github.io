@@ -44,7 +44,7 @@ Awards
 ======
 * 2024 **Best Lightning Talk**, Ocean Modelling and Observations Workshop
 * 2024 **Best Student Presentation** at the biannual postgraduate reviews of the Climate Change Research Centre, University of New South Wales
-* 2023 Climate Change Research Centre **Prize for Science Communication**, Outreach or Education, University of New South Wales
+* 2023 Climate Change Research Centre **Prize for Science Communication, Outreach or Education**, University of New South Wales
 * 2023 **Best Lightning Talk**, Annual forum of the Australian Centre for Excellence in Antarctic Science
 * 2020 **University International Postgraduate Award** for study towards a PhD, University of New South Wales
   * valued at approximately AUD 330,000 covering tuition fees and a stipend
