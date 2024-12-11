@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="center">
+  <img src="/files/IMG_5253_sailing_sydney_harbour_cropped.jpeg" alt="Sydney Harbour" style="width:100%;
+  text-align:right"/> 
+  <figcaption style="text-align:right"> Winter racing on Sydney Harbour
+  </figcaption>
+</p>
+
 You can download my CV [`here`](/files/CV_master_2024-08.pdf)
 
 Education
