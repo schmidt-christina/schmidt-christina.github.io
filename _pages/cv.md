@@ -22,7 +22,6 @@ Education
 * 2013-2016 **Bachelor of Science** in Physics of the Earth System: Meteorology, Physical Oceanography and Geophysics
   * Christian-Albrechts-Universität zu Kiel and GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany
 
-
 Professional Experience
 ======
 * 2020-2022 **Research Scientist** (part time) at GEOMAR Helmholtz Centre for Ocean Research Kiel
@@ -53,8 +52,8 @@ Awards
 
 Engagement, Impact and Leadership
 ======
-* since 2023 **Chair of the Early Career Researcher Committee**, Australian Centre for Excellence in Antarctic Science
-* since 2023  Volunteer in the **social media team** responsible for the twitter account of the Climate Change Research Centre (@ccrc_unsw)
+* 2023-2024 **Chair of the Early Career Researcher Committee**, Australian Centre for Excellence in Antarctic Science
+* 2023-2024  Volunteer in the **social media team** responsible for the twitter (@ccrc_unsw) and bluesky (@ccrc.bsky.social) accounts of the Climate Change Research Centre
 * 2023	**Session Convenor** and member of the **organizing committee**, Annual research forum of the Australian Centre for Excellence in Antarctic Science, Hobart, Australia, 8-9 November 2023
 * 2018, 2019 **Supervisor** at the ["Ice Climate Education"](https://www.arved-fuchs.de/en/archiv/jugendprojekte?view=article&id=1532:ice-das-projekt&catid=166:i-c-e-2022) summer school
   * summer school for last year High School students from several European countries
