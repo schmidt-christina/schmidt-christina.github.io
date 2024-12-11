@@ -13,17 +13,21 @@ author_profile: true
 
 # Publications
 
-Please find my publication list below or visit my profiles on [ORCID](https://orcid.org/0000-0002-7672-5054) and [Google Scholar](https://scholar.google.com/citations?user=Mx0OgAEAAAAJ&hl=de).
+Please find my publication list below or visit my profiles on [ORCID](https://orcid.org/0000-0002-7672-5054) and [Google Scholar](https://scholar.google.com/citations?user=Mx0OgAEAAAAJ&hl=de). If you can't access a paper, please reach out and I am more then happy to share it with you.
 
-<!-- ## Journal Articles -->
 
 <!-- ### Articles in preparation -->
 
-<!-- ### Articles submitted for publication -->
+### Articles under review
+* **Schmidt, C.**, Morrison, A. K., England, M. H., Aguiar, W., & Gibson., A. (under review in Journal of Advances in Modeling Earth Systems). [Sensitivity of Antarctic Bottom Water formation and export to horizontal model resolution](https://doi.org/10.22541/essoar.172469193.39598080/v1). ESS Open Archive, August 26, 2024.
+
 
 ### Published articles
 
 <ol reversed>
+  <li>Harrison, T., Bracegirdle, T., Davrinche, C., Dutrieux, P., Gilbert, E., Haigh, M., Jones, J., Kent, E., King, J., Lu, H., Price, R., <b>Schmidt, C.</b>, Vignon, É., & Wiener, V. (2024). <a href="https://doi.org/10.1175/BAMS-D-24-0247.1"> Advances and next steps in observing and modeling Antarctica’s coastal winds</a>. <i> Bulletin of the American Meteorological Society</i>, 105(11), 2242-2248.</li>
+
+
   <li>Xie, Y., Spence, P., Corney, S., Tamsitt, V., Dawson, H., <b>Schmidt, C.</b>, & Bach, L. T. (2024). <a href="https://doi.org/10.1029/2023GL106342"> Euphotic zone residence time of Antarctic Bottom Water</a>. <i>Geophysical Research Letters</i>, 51, e2023GL106342.</li>
   
   <li><b>Schmidt, C.</b>, Morrison, A. K., & England, M. H. (2023). <a href="https://doi.org/10.1029/2023JC019774"> Wind– and sea‐ice–driven interannual variability of Antarctic Bottom Water formation</a>. <i>Journal of Geophysical Research: Oceans</i>, 128(6).</li>
