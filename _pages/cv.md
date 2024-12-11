@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 <p align="center">
   <img src="/files/20240815_144631_cropped.jpg" alt="Uluru" style="width:100%;
@@ -15,6 +15,8 @@ redirect_from:
   <figcaption style="text-align:right"> Uluru
   </figcaption>
 </p>
+
+{% include base_path %}
 
 You can download my CV [`here`](/files/CV_master_2024-08.pdf)
 
