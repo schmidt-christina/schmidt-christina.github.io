@@ -15,7 +15,7 @@ redirect_from:
 
 # CV
 
-You can download my CV [`here`](/files/CV_master_2024-08.pdf)
+You can download my CV [`here`](/files/CV_Christina_Schmidt_2024-12.pdf)
 
 Education
 ======
