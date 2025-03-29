@@ -15,6 +15,9 @@ author_profile: true
 
 # Presentations at Conferences and Workshops
 
+### 2025
+* **Invited Speaker** for JMP04 Session "Antarctic Bottom Water Formation, Variability, and Trends" at **BACO-25**, Busan, South Korea, 20-25 July 2025 (unable to attend)
+
 ### 2024
 * *Oral Presentation* at **Australian Antarctic Research Conference**, Hobart, Australia, 18-22 November 2024
 * *Oral Presentation (online)* at **Workshop on ice-ocean interactions** by the Joint Commission on Ice-Ocean Interactions (IAPSO, IACS), online, 14-18 October 2024
