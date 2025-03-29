@@ -48,6 +48,8 @@ Technical Skills
 
 Awards
 ======
+* 2025 **Top cited article**: Schmidt et al. (2023) is among top 10 most-cited papers published in Journal of Geophysical Research: Oceans in 2023
+* 2025 **Scholarship** to support publication of remaining PhD thesis chapters awarded by the Australian Centre for Excellence in Antarctic Science (valued at AUD 6,000)
 * 2024 **Best Lightning Talk**, Ocean Modelling and Observations Workshop
 * 2024 **Best Student Presentation** at the biannual postgraduate reviews of the Climate Change Research Centre, University of New South Wales
 * 2023 Climate Change Research Centre **Prize for Science Communication, Outreach or Education**, University of New South Wales
@@ -58,6 +60,7 @@ Awards
 
 Engagement, Impact and Leadership
 ======
+* 2025 **Podcast** episode “Expedition OCEAN CHANGE mit Arved Fuchs” about the Denman Marine Voyage: ["Inspiration gelungen: Warum Christina Schmidt aus Bad Bramstedt in der Antarktis forscht"](https://open.spotify.com/episode/1ea2lbHyrtfw7F2fa9vrHF?si=382a6b9446e548e4)
 * 2023-2024 **Chair of the Early Career Researcher Committee**, Australian Centre for Excellence in Antarctic Science
 * 2023-2024  Volunteer in the **social media team** responsible for the twitter (@ccrc_unsw) and bluesky (@ccrc.bsky.social) accounts of the Climate Change Research Centre
 * 2023	**Session Convenor** and member of the **organizing committee**, Annual research forum of the Australian Centre for Excellence in Antarctic Science, Hobart, Australia, 8-9 November 2023
@@ -69,6 +72,8 @@ Engagement, Impact and Leadership
 
 Sea-going Experience
 ======
+* 2025  [Denman Marine Voyage](https://antarctic.org.au/dmv/) on *RSV Nuyina* to the Denman Glacier and Shackleton Ice Shelf in **East Antarctica** (63 days)
+  * Resposibilities: Oxygen titration, salinometer, CTD sampling, outreach
 * 2019	[M159](https://www.ldf.uni-hamburg.de/meteor/wochenberichte/wochenberichte-meteor/m156-m159/m159-scr.pdf) on *RV Meteor* in the **tropical Atlantic** (28 days)
   * Resposibilities: Mooring re-deployment, mooring data processing, oxygen titration, CTD watch
 * 2016	[MSM54](https://www.ldf.uni-hamburg.de/merian/wochenberichte/wochenberichte-merian/msm53-msm54/msm54-scr.pdf) on *RV Maria S. Merian* in the **subpolar North Atlantic** (24 days)
