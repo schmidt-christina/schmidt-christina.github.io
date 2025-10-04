@@ -60,7 +60,6 @@ Awards
 
 Engagement, Impact and Leadership
 ======
-* 2025 **Podcast** episode “Expedition OCEAN CHANGE mit Arved Fuchs” about the Denman Marine Voyage: ["Inspiration gelungen: Warum Christina Schmidt aus Bad Bramstedt in der Antarktis forscht"](https://open.spotify.com/episode/1ea2lbHyrtfw7F2fa9vrHF?si=382a6b9446e548e4)
 * 2023-2024 **Chair of the Early Career Researcher Committee**, Australian Centre for Excellence in Antarctic Science
 * 2023-2024  Volunteer in the **social media team** responsible for the twitter (@ccrc_unsw) and bluesky (@ccrc.bsky.social) accounts of the Climate Change Research Centre
 * 2023	**Session Convenor** and member of the **organizing committee**, Annual research forum of the Australian Centre for Excellence in Antarctic Science, Hobart, Australia, 8-9 November 2023
