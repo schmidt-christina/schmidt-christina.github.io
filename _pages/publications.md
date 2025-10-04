@@ -22,12 +22,11 @@ Please find my publication list below or visit my profiles on [ORCID](https://or
 * **Schmidt, C.**, Morrison, A. K., England, M. H., & Silvano, A. (under review in Geophysical Research Letter). [West Antarctic melt variability and wind anomalies contribute to Ross Sea salinity rebound](https://doi.org/10.22541/essoar.173870875.51711851/v1). ESS Open Archive . February 04, 2025. DOI: 10.22541/essoar.173870875.51711851/v1
 
 
-* **Schmidt, C.**, Morrison, A. K., England, M. H., Aguiar, W., & Gibson., A. (under review in Journal of Advances in Modeling Earth Systems). [Sensitivity of Antarctic Bottom Water formation and export to horizontal model resolution](https://doi.org/10.22541/essoar.172469193.39598080/v1). ESS Open Archive, August 26, 2024. DOI: 10.22541/essoar.172469193.39598080/v1
-
-
 ### Published articles
 
 <ol reversed>
+  <li><b>Schmidt, C.</b>, Morrison, A. K., England, M. H., Aguiar, W., & Gibson., A. (2025). <a href="https://doi.org/10.1029/2024MS004621"> Sensitivity of Antarctic Bottom Water formation and export to horizontal model resolution</a>. <i> Journal of Advances in Modeling Earth Systems</i>, 17, e2024MS004621. DOI: 10.1029/2024MS004621 </li>
+  
   <li>Harrison, T., Bracegirdle, T., Davrinche, C., Dutrieux, P., Gilbert, E., Haigh, M., Jones, J., Kent, E., King, J., Lu, H., Price, R., <b>Schmidt, C.</b>, Vignon, É., & Wiener, V. (2024). <a href="https://doi.org/10.1175/BAMS-D-24-0247.1"> Advances and next steps in observing and modeling Antarctica’s coastal winds</a>. <i> Bulletin of the American Meteorological Society</i>, 105(11), 2242-2248. DOI: 10.1175/BAMS-D-24-0247.1 </li>
 
 
