@@ -66,7 +66,7 @@ Engagement, Impact and Leadership
 * 2018, 2019 **Supervisor** at the ["Ice Climate Education"](https://www.arved-fuchs.de/en/archiv/jugendprojekte?view=article&id=1532:ice-das-projekt&catid=166:i-c-e-2022) summer school
   * summer school for last year High School students from several European countries
   * 10 days on sailing vessel Ryvar in the German and Danish Baltic Sea
-* **Reviewer** for Communications Earth & Environment, Ocean Science
+* **Reviewer** for Communications Earth & Environment, Ocean Science, Frontiers in Marine Science
 
 
 Sea-going Experience
