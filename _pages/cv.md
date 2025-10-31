@@ -17,6 +17,13 @@ redirect_from:
 
 You can download my CV [`here`](/files/CV_Christina_Schmidt_2024-12.pdf)
 
+Professional Experience
+======
+* Since 2025 **Ice/Ocen Modeller** at the British Antarctic Survey, Cambridge, United Kingdom
+  * Modeling melting of Greenland’s glaciers as part of the [GIANT](https://www.bas.ac.uk/project/giant/) project with Dr. Paul Holland
+* 2020-2022 **Research Scientist** (part time) at GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany
+  * Analysis of components of the Atlantic Meridional Overturning Circulation (Agulhas leakage, overturning in the subpolar North Atlantic) in high-resolution ocean-sea ice models with Eulerian and Lagrangian techniques with Prof. Arne Biastoch
+
 Education
 ======
 * 2021-2025 **PhD** in Physical Oceanography and Climate Science
@@ -27,12 +34,6 @@ Education
   * Christian-Albrechts-Universität zu Kiel and GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany
 * 2013-2016 **Bachelor of Science** in Physics of the Earth System: Meteorology, Physical Oceanography and Geophysics
   * Christian-Albrechts-Universität zu Kiel and GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany
-
-Professional Experience
-======
-* 2020-2022 **Research Scientist** (part time) at GEOMAR Helmholtz Centre for Ocean Research Kiel
-  * Supervisor: Prof. Arne Biastoch
-  * Analysis of components of the Atlantic Meridional Overturning Circulation (Agulhas leakage, overturning in the subpolar North Atlantic) in high-resolution ocean-sea ice models with Eulerian and Lagrangian techniques
 
 Technical Skills
 ======
