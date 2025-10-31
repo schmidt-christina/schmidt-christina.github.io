@@ -16,7 +16,9 @@ redirect_from:
 
 # About me
 
-<p style='text-align: justify;'> I am a Physical Oceanographer interested in what drives the ocean’s circulation from small to large scales and how this affects the climate system. In particular, the dynamics and processes on the Antarctic margin and in the Southern Ocean are fascinating to me. I use advanced technical skills including high-resolution ocean-sea ice models and Lagrangian methods to better understand changes in the ocean’s circulation. </p>
+<p style='text-align: justify;'> I am a Physical Oceanographer interested in the dynamics, changes, and atmosphere-ocean-ice interactions in the polar regions. Currently, I work as an Ice/Ocean Modeller at the British Antarctic Survey on the GIANT project contributing to a better understanding of how Greenland’s glaciers are melting. I studied at GEOMAR, Germany and received my PhD from the University of New South Wales, Australia in 2025 where I investigated Antarctic Bottom Water formation and dynamics in a changing climate. 
+  
+I am passionate about science communication as I enjoy sharing my knowledge and excitement for the oceans with students and the general public. You can find articles and podcasts <a href=https://schmidt-christina.github.io/media/>here</a>. </p>
 
 
 <p style='text-align: justify;'>  Please contact me at drchristinaschmidt@outlook.com if you wish to know more or have any other questions. </p>
