@@ -19,7 +19,7 @@ Please find my publication list below or visit my profiles on [ORCID](https://or
 <!-- ### Articles in preparation -->
 
 ### Articles under review
-* **Schmidt, C.**, Morrison, A. K., England, M. H., & Silvano, A. (under review in Geophysical Research Letter). [West Antarctic melt variability and wind anomalies contribute to Ross Sea salinity rebound](https://doi.org/10.22541/essoar.173870875.51711851/v1). ESS Open Archive . February 04, 2025. DOI: 10.22541/essoar.173870875.51711851/v1
+* **Schmidt, C.**, Morrison, A. K., England, M. H., & Silvano, A. (under review in Geophysical Research Letter). [Reduced West Antarctic melt rates and winds drive salinity rebound in the Ross Sea via baroclinic waves](https://doi.org/10.22541/essoar.173870875.51711851/v2). ESS Open Archive . October 31, 2025. DOI: 10.22541/essoar.173870875.51711851/v2
 
 
 ### Published articles
