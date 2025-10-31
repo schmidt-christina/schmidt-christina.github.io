@@ -22,6 +22,9 @@ author_profile: true
 
 From unique wildlife to resilient microbes, world-changing climate dynamics to untapped biotechnological potential – four UNSW scientists outline what makes Antarctica a laboratory like no other.
 
+## ["From East Antarctica to the world: outreach program goes global"](https://antarctic.org.au/from-east-antarctica-to-the-world-outreach-program-goes-global/)
+
+<em>**Article** about the outreach program reaching about 500 students during the Denman Marine Voyage (May 2025)</em>
 
 ## ["Inspiration gelungen: Warum Christina Schmidt aus Bad Bramstedt in der Antarktis forscht"](https://open.spotify.com/episode/1ea2lbHyrtfw7F2fa9vrHF?si=382a6b9446e548e4)
 
