@@ -13,7 +13,7 @@ author_profile: true
   </figcaption>
 </p>
 
-# Media
+# Media and Outreach
 
 
 ## ["Breaking the ice: why study Antarctica?"](https://news.unsw.edu.au/en/breaking-the-ice-why-study-antarctica) 
