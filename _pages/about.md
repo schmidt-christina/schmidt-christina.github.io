@@ -22,3 +22,8 @@ redirect_from:
 
 
 <p style='text-align: justify;'>  Please contact me at drchristinaschmidt@outlook.com if you wish to know more or have any other questions. </p>
+
+<p align="center">
+  <img src="/files/P1033436_penguins_cropped.jpg" alt="Adelie penguins" style="width:100%;
+  text-align:right"/> 
+</p>
