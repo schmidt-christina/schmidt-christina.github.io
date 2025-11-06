@@ -21,7 +21,7 @@ redirect_from:
 <p style='text-align: justify;'> I am passionate about science communication as I enjoy sharing my knowledge and excitement for the oceans with students and the general public. You can find articles and podcasts <a href="https://schmidt-christina.github.io/media/">here</a>. </p>
 
 
-<p style='text-align: justify;'>  Please contact me at drchristinaschmidt@outlook.com if you wish to know more or have any other questions. </p>
+<p style='text-align: justify;'>  Please contact me at christina.schmidt@bas.ac.uk if you wish to know more or have any other questions. </p>
 
 <p align="center">
   <img src="/files/P1033436_penguins_cropped.jpg" alt="Adelie penguins" style="width:100%;
