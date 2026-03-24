@@ -15,6 +15,11 @@ author_profile: true
 
 # Presentations at Conferences and Workshops
 
+
+### 2026
+* Polar Oceans *Seminar*, British Antarctic Survey, Cambridge, UK, 15 April 2026
+* *Poster* at **Ocean Sciences Meeting**, Glasgow, UK, 23-27 February 2026
+  
 ### 2025
 * **Invited Speaker** for JMP04 Session "Antarctic Bottom Water Formation, Variability, and Trends" at **BACO-25**, Busan, South Korea, 20-25 July 2025 (unable to attend)
 
